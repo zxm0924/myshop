@@ -1,0 +1,42 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+a{
+    color:#fff;
+}
+div{
+    color:#fff;
+    
+}
+.M-main{
+    height: 450px;
+    /* background-color: #c06; */
+}
+.header{
+    background: #506f75;
+    margin-bottom:10px;
+
+}
+/* .Left{
+    padding:45px 20px;
+    height: 400px;
+    background-color:rgb(113, 192, 238);
+    /* border:1px solid red; */
+    /* float:left;
+} */ 
+.Right{
+    height:450px;
+    /* border:1px solid green; */
+    /* float:right; */
+
+}
+
+.right .item img{
+    box-sizing: border-box;
+}
+.foteer{
+    height: 60px;
+    margin-top:10px;
+}
+

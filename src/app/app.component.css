@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.search{
+ /* margin-left:2px; */
+}
+.nav-carsues{
+    margin-bottom: 40px;
+    margin-left:5px;
+}
+
+.row{
+    /* border:1px solid red; */
+}

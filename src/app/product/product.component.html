@@ -1,0 +1,15 @@
+
+<!-- 产品组件 -->
+<div *ngFor="let products of products" class="col-md-4 col-sm-4 col-lg-4">
+  <div class="thumbnail">
+    <img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1537009175856&di=61392cc3e8b9a368a81c3aabad04e851&imgtype=0&src=http%3A%2F%2Fstatic.pig66.com%2Fuploadfile%2F2017%2F0728%2F20170728015257205.jpg" style="width:320px;height:150px" alt="">
+    <div class="caption">
+      <h4 class="pull-right">{{products.price}}</h4>
+      <a routerLink="/products/">{{products.title}}</a>
+      <p>{{products.desc}}</p>
+    </div>
+    <div>
+      <!-- 评价组件 -->
+    </div>
+  </div>
+</div>
