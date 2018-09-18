@@ -10,7 +10,7 @@ npm i
 
 第三步、运行项目
 
-ng serve -o
+ng serve --o
 
 
 
